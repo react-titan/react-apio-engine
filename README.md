@@ -1,8 +1,8 @@
 # react-apio-engine
 
-react-apio-engine is a JavaScript library for building mobile and web user interfaces.
+react-apio-engine is a closed source JavaScript library for building mobile and web user interfaces.
 
 # Usage
 
-At this time react-apio-engine on closed beta test. If you want to use it you shuold to send request by this link
+At this time react-apio-engine in closed beta testing. if you want to use it you should send a request at this link - 
 [Send a request](https://itkitchen.su)
